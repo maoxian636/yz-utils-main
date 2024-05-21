@@ -1,4 +1,4 @@
-package com.yangzai.superutils
+package com.msdk.xsdk
 
 class Test {
     val A =1000

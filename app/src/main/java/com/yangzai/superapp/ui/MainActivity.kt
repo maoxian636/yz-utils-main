@@ -3,7 +3,7 @@ package com.yangzai.superapp.ui
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import com.yangzai.superapp.R
-import com.yangzai.superutils.Test
+import com.msdk.xsdk.Test
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

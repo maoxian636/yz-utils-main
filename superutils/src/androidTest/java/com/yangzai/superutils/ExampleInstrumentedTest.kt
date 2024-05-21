@@ -1,12 +1,11 @@
-package com.test.superapp
+package com.yangzai.superutils
 
-import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
+import com.test.superutils.yzIsIncludeDigit
+import com.test.superutils.yzLoge
 
 import org.junit.Test
 import org.junit.runner.RunWith
-
-import org.junit.Assert.*
 
 /**
  * Instrumented test, which will execute on an Android device.
@@ -17,8 +16,6 @@ import org.junit.Assert.*
 class ExampleInstrumentedTest {
     @Test
     fun useAppContext() {
-        // Context of the app under test.
-        val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.yangzai.superapp", appContext.packageName)
+        yzLoge("111aaa2b3c4d".yzIsIncludeDigit())
     }
 }

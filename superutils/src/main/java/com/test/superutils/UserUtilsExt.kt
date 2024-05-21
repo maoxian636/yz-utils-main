@@ -1,4 +1,4 @@
-package com.yangzai.superutils
+package com.test.superutils
 
 import java.text.ParseException
 import java.text.SimpleDateFormat

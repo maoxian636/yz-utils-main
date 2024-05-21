@@ -1,4 +1,4 @@
-package com.yangzai.superutils
+package com.test.superutils
 
 import android.util.Log
 

@@ -1,4 +1,4 @@
-package com.yangzai.superutils
+package com.test.superutils
 
 /**
  *@author 许阳

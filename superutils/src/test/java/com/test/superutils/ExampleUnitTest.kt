@@ -1,9 +1,6 @@
-package com.yangzai.superutils
+package com.test.superutils
 
-import android.util.Log
 import org.junit.Test
-
-import org.junit.Assert.*
 
 /**
  * Example local unit test, which will execute on the development machine (host).

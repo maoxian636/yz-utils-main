@@ -1,8 +1,6 @@
 package com.yangzai.superutils
 
 import androidx.test.ext.junit.runners.AndroidJUnit4
-import com.test.superutils.yzIsIncludeDigit
-import com.test.superutils.yzLoge
 
 import org.junit.Test
 import org.junit.runner.RunWith

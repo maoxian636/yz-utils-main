@@ -1,14 +1,5 @@
 package com.yangzai.superutils
 
-import com.test.superutils.yzCheckEmail
-import com.test.superutils.yzCheckIdcard
-import com.test.superutils.yzCheckPassword
-import com.test.superutils.yzCheckPhone
-import com.test.superutils.yzDesensitizedPhoneNumber
-import com.test.superutils.yzDesensitizedUsername
-import com.test.superutils.yzIsIncludeDigit
-import com.test.superutils.yzSplitNotNumber
-import com.test.superutils.yzSplitNumbers
 import org.junit.Test
 
 /**

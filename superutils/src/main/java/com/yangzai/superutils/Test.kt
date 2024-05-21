@@ -1,4 +1,4 @@
-package com.test.superutils
+package com.yangzai.superutils
 
 class Test {
     val A =1000

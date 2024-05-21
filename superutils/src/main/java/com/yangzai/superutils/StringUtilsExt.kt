@@ -1,4 +1,4 @@
-package com.test.superutils
+package com.yangzai.superutils
 
 import java.util.regex.Pattern
 

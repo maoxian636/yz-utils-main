@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace 'com.test.superutils'
+    namespace 'com.yangzai.superutils'
     compileSdk 34
 
     defaultConfig {
